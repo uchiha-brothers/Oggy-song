@@ -308,6 +308,40 @@ function song16OnClick() {
   playTrack();
 }
 
+function song17OnClick() {
+  loadTrack(16);
+  playTrack();
+}
+
+function song18OnClick() {
+  loadTrack(17);
+  playTrack();
+}
+
+function song19OnClick() {
+  loadTrack(18);
+  playTrack();
+}
+
+function song20OnClick() {
+  loadTrack(19);
+  playTrack();
+}
+
+function song21OnClick() {
+  loadTrack(20);
+  playTrack();
+}
+
+function song22OnClick() {
+  loadTrack(21);
+  playTrack();
+}
+
+function song23OnClick() {
+  loadTrack(22);
+  playTrack();
+}
 
 function prevTrack() {
   if (track_index > 0) track_index -= 1;
